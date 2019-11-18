@@ -15,16 +15,16 @@ All funds will be collected via [PayPal](https://paypal.me/tovic). I will announ
 
 **The following is a typical process of starting a bounty on the basis of my own initiative:**
 
- 1. I write an issue about the project that I will work on.
+ 1. I [write an issue](https://github.com/mecha-cms/bounty/issues/new) about the project that I will work on.
  2. I determine the amount of funds needed.
  3. I set a deadline, and state that if the funds are not met then the project will be canceled or simply transformed into a paid feature that can be purchased and is not legally available to the public.
 
 **The following is a typical process of starting a bounty on the basis of your initiative:**
 
- 1. You write an issue about what features you want.
+ 1. You [write an issue](https://github.com/mecha-cms/bounty/issues/new) about what features you want.
  2. You determine the funds that the community may be able to provide.
  3. I provide input if the feature is better to be added in a separate extension or layout.
  4. I determine whether the project can be achieved or not.
- 5. I stated whether I was willing or not to do it.
- 6. When I say I am willing to do it, I will start the bounty with the amount of funds according to the previous discussion.
+ 5. I stated whether I’m willing to do it or not.
+ 6. When I say I’m willing to do it, I will start the bounty with the amount of funds according to the previous discussion.
  7. In many cases, I might state that I’m willing to do it for free or simply giving you the code snippet needed to make such features for simple requests.
