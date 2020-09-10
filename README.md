@@ -11,7 +11,7 @@ Bounty is not the same as paid services. When the financial target has been met 
 
 At the moment, I don’t have any special calculation system for bounties. The bounty process will be done through a discussion process or through my own initiative. When the bounty has started, the fund calculation will be enabled.
 
-All funds will be collected via [PayPal](https://paypal.me/tovic). I will announce the progress every time a new transaction occurs. As with a very simple system, you may need to provide information on the purpose for which you are providing funds, via e-mail or via description field in the payment process.
+All funds will be collected via [PayPal](https://paypal.me/tatautaufik). I will announce the progress every time a new transaction occurs. As with a very simple system, you may need to provide information on the purpose for which you are providing funds, via e-mail or via description field in the payment process.
 
 **The following is a typical process of starting a bounty on the basis of my own initiative:**
 
