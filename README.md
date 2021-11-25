@@ -1,5 +1,5 @@
-Bounty for Mecha
-================
+Bounty for [Mecha](https://github.com/mecha-cms/mecha)
+======================================================
 
 > Feature as a service.
 
