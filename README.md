@@ -1,8 +1,6 @@
 Bounty for [Mecha](https://github.com/mecha-cms/mecha)
 ======================================================
 
-> Feature as a service.
-
 Most of my projects are done during my free time (in a good mood, of course). There are times when I am unable to work on certain projects according to user requests, one of which is because I couldn’t find any strong motivation to make it a priority.
 
 I consider the concept of [bounty](https://en.wikipedia.org/wiki/Open-source_bounty) as one of the best open-source financing solutions that will not burden the community, as financing will be provided on a voluntary basis with a small amount of money.
