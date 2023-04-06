@@ -1,9 +1,5 @@
 body:
   - attributes:
-      value: |
-        This issue is the subject of [my bounty program](https://github.com/mecha-cms/bounty), please leave this page and post the issue on that page.
-    type: markdown
-  - attributes:
       description: Be realistic.
       label: Describe your feature request in the field below
       placeholder: Explain in detail here.
