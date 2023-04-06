@@ -1,0 +1,29 @@
+body:
+  - attributes:
+      value: |
+        This issue is the subject of [my bounty program](https://github.com/mecha-cms/bounty), please leave this page and post the issue on that page.
+    type: markdown
+  - attributes:
+      description: Be realistic.
+      label: Describe your feature request in the field below
+      placeholder: Explain in detail here.
+    type: textarea
+    validations:
+      required: true
+  - attributes:
+      description: Enter `0` if you do not want to pay or just wish this feature would be available in the future.
+      label: Provide financial support (USD)
+      placeholder: '0'
+      value: '10'
+    type: input
+    validations:
+      required: true
+  - attributes:
+      description: May God reward your generosity.
+      label: Have money to donate?
+      options:
+        - label: I will donate my money as written above once the feature is available.
+          required: true
+    type: checkboxes
+description: Feature as a service.
+name: Feature Request
